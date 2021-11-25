@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Centra No2";
+  font-style: normal;
+  font-weight: 400;
+  src: url("CentraNo2-Book.woff") format("woff"),
+}
+
+@font-face {
+  font-family: "Centra No2";
+  font-weight: 700;
+  font-style: normal;
+  src: url("CentraNo2-Bold.woff") format("woff"),
+}
